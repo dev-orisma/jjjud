@@ -1,0 +1,18 @@
+{
+  "name": "jjjud",
+  "main": "jjjud.js",
+  "homepage": "https://github.com/dev-orisma/jjjud",
+  "authors": [
+    "Auttaporn Feungngern <auttaporn@orisma.com>"
+  ],
+  "description": "jQuery plugin for the truncation of text to suitable with Thai language which is not separate the word with space.",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
